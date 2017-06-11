@@ -27,4 +27,5 @@ The Sample JS Simple Application can be launched using the HSPC Sandbox or an EH
 
 ## Dynamic Registration
 The app contains dynamic registration at:
+
 * manifest: <http://localhost:8080/.well-known/smart/manifest.json>
