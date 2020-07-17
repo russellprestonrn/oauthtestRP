@@ -2,7 +2,7 @@
   "software_id": "org.hspconsortium:sample-js-simple-application:0.1.0",
   "client_name": "Sample JS Simple Application",
   "client_uri": "http://localhost:8080/index.html",
-  "logo_uri": "https://content.hspconsortium.org/images/hspc/icon/HSPCSandboxNoIconApp-256.png",
+  "logo_uri": "https://content.logicahealth.org/images/hspc/icon/HSPCSandboxNoIconApp-256.png",
   "launch_url": "http://localhost:8080/launch.html",
   "redirect_uris": [
     "http://localhost:8080/index.html"

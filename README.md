@@ -14,7 +14,7 @@ npm run serve
 
 The Sample JS Simple Application can be launched using the HSPC Sandbox or an EHR simulator of your choice.
 
-1. Open the HSPC Sandbox at <https://sandbox.hspconsortium.org> (create an account if you don't have one)
+1. Open the HSPC Sandbox at <https://sandbox.logicahealth.org> (create an account if you don't have one)
 2. Select your sandbox instance (create a sandbox if you don't have one)
 3. From the *Launch Scenarios* screen, build a launch scenario
 4. Select a persona (a persona is a simulation of a user account such as a doctor or patient)
